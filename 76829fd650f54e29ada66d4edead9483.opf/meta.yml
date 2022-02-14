@@ -3,8 +3,10 @@ initial_creation_type: ocr
 source_metadata:
   volumes:
     bcff02a8c15548bbb2e41f4f516f5cb5:
-      base_file: v061.txt
+      base_file: v062.txt
       image_group_id: I1PD95907
       title: དབུ་མ་སྣང་བ།
       total_pages: 1557
       volume_number: 62
+vol2fn:
+  v062: v062.txt
